@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task6-V2</string>
+    <string name="Number1">Number1</string>
+    <string name="Number2">Number2</string>
+    <string name="button">Button</string>
+    <string name="summationtv">SummationTV</string>
+    <string name="multiplicationtv">MultiplicationTV</string>
+    <string name="divisiontv">DivisionTV</string>
+    <string name="subtractiontv">SubtractionTV</string>
+</resources>
